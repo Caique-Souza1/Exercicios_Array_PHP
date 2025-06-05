@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title><?= $Titulo ?></title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="/Array/auxiliares/style.css">
     <tittle>
     <div class= "cabeca">
         <h2><?= $Titulo ?></h2>
