@@ -9,6 +9,22 @@ body {
     align-items: center;
 }
 
+.item{
+    justify-content: center;
+    align-items: center;
+}
+
+.main-container a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+input,label{
+    display: block;
+}
+
 .main-container {
     background-color: #444;
     color: #fff;
